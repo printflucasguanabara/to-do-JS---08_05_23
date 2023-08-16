@@ -160,4 +160,19 @@ select{
     font-style: italic;
 }
 
+.laranja {
+    background-color: rgb(243, 173, 43);
+    transition: all 0.25s ease-in-out;
+}
+
+.vermelho {
+    background-color: rgb(175, 40, 40);
+    transition: all 0.25s ease-in-out;
+}
+
+.purpura {
+    background-color: rgb(109, 29, 109);
+    transition: all 0.25s ease-in-out;
+}
+
 
