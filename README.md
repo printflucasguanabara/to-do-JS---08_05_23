@@ -6,6 +6,7 @@
 
 16/08/2023 - Recentemente, eu e colegas de trabalho passamos a usar este meu projeto dia a dia. Após me verem utilizando projeto para organizar minhas tarefas! (Estou atualizando ele com algumas ideais de meus colegas!)
 
+*Pretendo fazer uma versão com a UI mais bem elaborada*
 
 [DEMO(vercel)](https://to-do-js-08-05-23.vercel.app/).
 
