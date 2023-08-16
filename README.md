@@ -4,7 +4,7 @@
 
 
 
-16/08/2023 - Recentemenete, eu e colegas de trabalho passamos a usar este meu projeto dia a dia. Após me verem utilizando projeto para organizar minhas tarefas! (Estou atualizando ele com algumas ideais de meus colegas!)
+16/08/2023 - Recentemente, eu e colegas de trabalho passamos a usar este meu projeto dia a dia. Após me verem utilizando projeto para organizar minhas tarefas! (Estou atualizando ele com algumas ideais de meus colegas!)
 
 
 [DEMO(vercel)](https://to-do-js-08-05-23.vercel.app/).
