@@ -117,7 +117,3 @@ editForm.addEventListener("submit", (e) => {
 
     toggleForms()
 })
-
-//botoes de diferentes cores (adicionado 16/08/2023)
-
-document.getElementById("btn-laranka
