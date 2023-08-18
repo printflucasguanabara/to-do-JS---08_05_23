@@ -116,4 +116,21 @@ editForm.addEventListener("submit", (e) => {
     }
 
     toggleForms()
+});
+
+
+
+
+document.getElementById("btn-laranja").addEventListener("click", function(){
+
+document.querySelector("body").setAttributes("class", "laranja");  
+})
+
+document.getElementById("btn-vermelho").addEventListener(
+    "click", funcition(){
+    document.querySelector("body").setAttribute("class", "vermelho");
+})
+
+document.getElementById("brn-purpura").addEventListener("click", function(){
+  document.querySelector("body").setAttibrute("class", "purpura");  
 })
