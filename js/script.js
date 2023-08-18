@@ -119,7 +119,7 @@ editForm.addEventListener("submit", (e) => {
 });
 
 
-
+// botoes cores
 
 document.getElementById("btn-laranja").addEventListener("click", function(){
 
